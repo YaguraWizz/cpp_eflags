@@ -21,7 +21,7 @@
 Вот пример использования `EnumFlags` с перечислениями:
 
 ```cpp
-#include "cpp_eflags.cpp"
+#include "cpp_eflags.h"
 
 enum class MyFlags {
     FlagA = 1 << 0,
